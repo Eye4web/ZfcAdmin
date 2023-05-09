@@ -19,12 +19,12 @@
         }
     ],
     "require": {
-        "php": "^5.5 || ^7.0 || ^8.0",
-        "zendframework/zend-modulemanager": "^2.5",
-        "zendframework/zend-loader": "^2.5",
-        "zendframework/zend-eventmanager": "^3.0",
-        "zendframework/zend-mvc": "^3.0",
-        "zendframework/zend-navigation": "^2.5"
+        "php": "^8.1",
+        "laminas/laminas-modulemanager": "^2.5",
+        "laminas/laminas-loader": "^2.5",
+        "laminas/laminas-eventmanager": "^3.0",
+        "laminas/laminas-mvc": "^3.0",
+        "laminas/laminas-navigation": "^2.5"
     },
     "suggest": {
         "bjyoungblood/bjy-authorize": "Access control to protect ZfcAdmin against unauthorized users"
